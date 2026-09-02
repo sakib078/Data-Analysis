@@ -1,0 +1,15 @@
+https://www.kaggle.com/datasets/decentnoman/airline-reservation-system
+
+
+dataset in use: 
+
+https://data.niaid.nih.gov/resources?id=zenodo_10125898
+
+
+web-app on dataset:
+
+https://aeroscope.isae-supaero.fr/
+https://zenodo.org/records/10143773
+
+book :
+https://journals.open.tudelft.nl/joas/issue/view/984
